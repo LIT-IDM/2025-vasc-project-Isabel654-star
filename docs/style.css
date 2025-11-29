@@ -59,6 +59,22 @@ img {
     font-style: italic;
 }
 
+.instructions {
+    text-align: left;
+}
+
+.download-button {
+    display: inline-block;
+    padding: 14px 20px;
+    border-radius: 999px;
+    margin-top: 16px;
+    background: wheat;
+    font-weight: bold;
+    text-decoration: none;
+    color: #6e0407;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
 .snow {
     position: fixed;
     top: 0;
